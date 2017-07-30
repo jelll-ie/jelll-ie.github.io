@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Jelllo
 
 Jelll is a Data Science consultancy based out of Dublin, Ireland.

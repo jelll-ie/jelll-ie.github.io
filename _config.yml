@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Minimal theme
+description: Jelll.ie website.
+show_downloads: true
+google_analytics: UA-66188316-2
+theme: 
